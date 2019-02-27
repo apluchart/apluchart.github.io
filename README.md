@@ -43,5 +43,8 @@
 | Licence RGI (Réseau et Génie Informatique) | 2014 |  
 | BTS IG ( Informatique de Gestion option Administrateur des Réseaux Locaux d'Entreprise ) | 2010 |  
 | Bac Scientifique (option Mathématiques) | 2008 |  
+---
+## Loisirs  
+Bricolage, Jeux vidéo, Domotique, Moto, Manga, Cinéma, Sport
 
 

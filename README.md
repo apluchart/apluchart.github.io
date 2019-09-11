@@ -1,5 +1,6 @@
-# Alexis PLUCHART Ingénieur Data
+# Alexis PLUCHART
 ---
+## Poste: Ingénieur Data
 ## Expériences professionnelles
 ### Mission – Traitement de log (10/2018 à aujourd'hui)
 **Objectifs :** Développer des parser de logs techniques et applicatifs permettant la supervision.  
@@ -22,7 +23,8 @@
 * Création du fichier de configuration Logstash et des mapping d'index (données + log) pour les suivis des dossiers clients (réalisé via une application interne connectée à Elasticsearch).  
 * Création du fichier de configuration Logstash, du mapping d'index et du tableau de bord permettant le suivi d'évolution des demandes d'assistances.  
 
-### Référent Technique - Administration Systèmes et Support Utilisateur (06/2015 à 10/2016)  
+## Poste: Référent Technique
+### Activité - Administration Systèmes et Support Utilisateur (06/2015 à 10/2016)  
 **Objectifs :** Assurer le support technique de l'équipe informatique.  
 **Technologies :** Windows Server 2003/2008, Windows 7, VmWare  
 **Tâches :**  

@@ -1,13 +1,13 @@
 # Alexis PLUCHART Ingénieur Data
 ---
 ## Expériences professionnelles
-### Ingénieur Data – Traitement de log (10/2018 à 03/2019)
+### Mission – Traitement de log (10/2018 à aujourd'hui)
 **Objectifs :** Développer des parser de logs techniques et applicatifs permettant la supervision.  
 **Technologies :** Elastic Suite  
 **Tâches :**  
 * Création des fichiers de configuration Logstash pour ingérer des logs réseaux (Extraction, enrichissement et agrégation de données), les indexer dans Elasticsearch et créer des tableaux de bords synthétiques dans Kibana.  
 
-### Ingénieur Data - Web Analyse (08/2017 à 07/2018)
+### Mission - Web Analyse (08/2017 à 07/2018)
 **Objectifs :** Gestion des données Web et création des tableaux de bord décisionnel à partir de ces données.  
 **Technologies :** Elastic Suite, Trifacta, Tableau, AT internet Analytics Suite, Adobe Marketing Cloud  
 **Tâches :**  
@@ -15,7 +15,7 @@
 * Création de tableau de bord Kibana permettant d'avoir une vue quotidienne du site ainsi qu'une vision comparative entre l'année en cours et les années précédentes.
 * Nettoyage de la donnée issue du DataLab via Trifacta 
 
-### Ingénieur Data - Gestion de donnée (05/2017 à 07/2017)  
+### Mission - Gestion de donnée (05/2017 à 07/2017)  
 **Objectifs :** Créer des index de données pour faire le suivi des dossiers clients et faire le suivi des demandes d'assistances.  
 **Technologies :** File JMS, Elastic Suite  
 **Tâches :**  

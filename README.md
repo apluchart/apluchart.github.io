@@ -64,6 +64,7 @@
 ## Formations
 | Formation suivies | Année d'obtention |  
 | ---|:---: |  
+| Certification Elasticsearch Engineer | 2020 |  
 | Autoformation Kafka (3 jours) | 2019 |  
 | Autoformation Python (3 jours) | 2018 |  
 | Autoformation Trifacta (2 jours) | 2018 |  

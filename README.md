@@ -10,6 +10,7 @@
 * Mise en place des bonnes pratiques de développement/déploiement . 
 *	Accompagnement/support des développeurs.   
 
+
 ## Poste: Administrateur BigData
 ### Mission – Adminitration Cloudera, support et exploitation des logs (09/2021 à 03/2022)
 **Objectifs :** Développer des parser de logs techniques et applicatifs permettant la supervision (réalisé en autonomie).  
@@ -18,6 +19,7 @@
 * Création des fichiers de configuration Logstash pour ingérer des logs de Production (Extraction, enrichissement et agrégation de données), les indexer dans Elasticsearch et créer des tableaux de bords synthétiques dans Kibana.  
 *	Accompagnement/support des utilisateurs finaux.  
 *	Encadrement/formation d’étudiant en stage longue durée (6 mois).
+
 
 ## Poste: Ingénieur Data
 ### Mission – Traitement de log et DataViz (03/2020 à 09/2021)
@@ -29,6 +31,7 @@
 *	Accompagnement/support des utilisateurs finaux.  
 *	Encadrement/formation d’étudiant en stage longue durée (2 mois).
 
+
 ## Poste: Ingénieur Data
 ### Mission – Traitement de log et DataViz (10/2018 à 12/2019)
 **Objectifs :** Développer des parser de logs techniques et applicatifs permettant la supervision (réalisé en autonomie).  
@@ -37,6 +40,7 @@
 * Création des fichiers de configuration Logstash pour ingérer des logs réseaux (Extraction, enrichissement et agrégation de données), les indexer dans Elasticsearch et créer des tableaux de bords synthétiques dans Kibana.  
 *	Accompagnement/support des utilisateurs finaux.  
 *	Encadrement/formation d’étudiant en stage longue durée (6 mois).  
+
 
 ## Poste: Ingénieur Data
 ### Mission - Web Analyse (08/2017 à 07/2018)
@@ -48,6 +52,7 @@
 * Nettoyage de la donnée issue du DataLab via Trifacta 
 *	Accompagnement/support des utilisateurs finaux.  
 
+
 ## Poste: Ingénieur Data
 ### Mission - Gestion de donnée (05/2017 à 07/2017)  
 **Objectifs :** Créer des index de données pour faire le suivi des dossiers clients et faire le suivi des demandes d'assistances (réalisé en autonomie).  
@@ -55,6 +60,7 @@
 **Tâches :**  
 * Création du fichier de configuration Logstash et des mapping d'index (données + log) pour les suivis des dossiers clients (réalisé via une application interne connectée à Elasticsearch).  
 * Création du fichier de configuration Logstash, du mapping d'index et du tableau de bord permettant le suivi d'évolution des demandes d'assistances.  
+
 
 ## Poste: Référent Technique
 ### Activité - Administration Systèmes et Support Utilisateur (06/2015 à 10/2016)  
@@ -64,6 +70,7 @@
 * Mise en oeuvres des directives nationales sur l’infrastructure locale.
 * Déploiement de solutions logiciels  multisites.
 * Support N2/N3 et accompagnement des utilisateurs.
+
 
 ## Poste: Administrateur Système / Développeur Web
 ### Activité - Administration Systèmes et Support Utilisateur (09/2008 à 09/2010)

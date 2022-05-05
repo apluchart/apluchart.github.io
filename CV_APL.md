@@ -93,6 +93,7 @@
 | Formation suivies | Année d'obtention |  
 | ---|:---: |  
 | Autoformation Azure : Préparation certification AZ900 | en cours |  
+| Autoformation Knime (2 jours) | 2019 |  
 | Certification Elasticsearch Engineer | 2020 |  
 | Autoformation Kafka (3 jours) | 2019 |  
 | Autoformation Python (3 jours) | 2018 |  

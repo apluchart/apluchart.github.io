@@ -13,7 +13,7 @@
 ## Poste: Administrateur BigData
 ### Mission – Adminitration Cloudera, support et exploitation des logs (09/2021 à 03/2022)
 **Objectifs :** Développer des parser de logs techniques et applicatifs permettant la supervision (réalisé en autonomie).  
-**Technologies :** Elastic Suite, Cloudera
+**Technologies :** Elastic Suite, Cloudera  
 **Tâches :**  
 * Création des fichiers de configuration Logstash pour ingérer des logs de Production (Extraction, enrichissement et agrégation de données), les indexer dans Elasticsearch et créer des tableaux de bords synthétiques dans Kibana.  
 *	Accompagnement/support des utilisateurs finaux.  

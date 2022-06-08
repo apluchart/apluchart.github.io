@@ -77,7 +77,7 @@
   
 ---
 ## Participation Evènement/Projet
-### Projet – Etude technologie d’exploitation de logs (03/19/2018 au 14/09/2018)
+### Projet – Etude technologie d’exploitation de logs (09/2018)
 **Objectifs :** Etudier des solutions de traitement/exploitation de logs permettant d’aboutir au choix d’une solution adaptée aux besoins clients. (réalisé en autonomie).  
 **Technologies :** Splunk, Apache Metron  
   
@@ -92,7 +92,11 @@
 ## Formations
 | Formation suivies | Année d'obtention |  
 | ---|:---: |  
-| Autoformation Azure : Préparation certification AZ900 | en cours |  
+| Autoformation DataBricks | A venir |
+| Autoformation Terraform | A venir |
+| Autoformation Azure : Préparation certification AZ400 | A venir |
+| Autoformation Azure : Préparation certification AZ104 | A venir |
+| Autoformation Azure : Préparation certification AZ900 | en cours |
 | Autoformation Knime (2 jours) | 2019 |  
 | Certification Elasticsearch Engineer | 2020 |  
 | Autoformation Kafka (3 jours) | 2019 |  

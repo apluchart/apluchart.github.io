@@ -97,7 +97,7 @@
 | Autoformation Azure : Préparation certification AZ400 | A venir |
 | Autoformation Azure : Préparation certification AZ104 | A venir |
 | Autoformation Azure : Préparation certification AZ900 | en cours |
-| Autoformation Knime (2 jours) | 2019 |  
+| Autoformation Knime (2 jours) | 2022 |  
 | Certification Elasticsearch Engineer | 2020 |  
 | Autoformation Kafka (3 jours) | 2019 |  
 | Autoformation Python (3 jours) | 2018 |  
